@@ -25,8 +25,12 @@ The purpose of this analysis is to use our knowledge of Tensorflow to design a n
 - How many neurons, layers and activation functions did you select for your neural network model, and why?
   
   This neural network model consists of two hidden layers with 80 neurons for the first hidden layer and 30 neurons for the second hidden layer. The first and second hidden       layers used the relu activation function. However, the sigmoid acitvation function was used for the output layer. For the compilation, the optimizer is adam and the loss       function is binary_crossentropy. 
+  
+  ![first test](https://user-images.githubusercontent.com/75760493/120915895-fd653200-c66b-11eb-85cb-60cfbe6325d6.PNG)
 
 - Were you able to achieve the target model performance?
+  
+  ![first test score](https://user-images.githubusercontent.com/75760493/120915902-0d7d1180-c66c-11eb-8492-54d62926f1ad.PNG)
   
   Unfortunately, the model was unable to achieve its target performance of 75% and fell just short at around 73%.
 
