@@ -63,3 +63,5 @@ Since the accuracry was only 72.84%, it still didn't reach the 75% target perfor
 This accuracry was only 72.48%, so it failed to reach the 75% target performance yet again.  
 
 ## Summary
+
+Since the models kept yeilding a 73% accuracy score, the one thing that comes to mind in regards to improving the accuracry score to the desired 75% is to either remove more columns that are filled with unneccessary data, or by adding more data to the model.
