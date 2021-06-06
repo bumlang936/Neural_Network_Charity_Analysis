@@ -54,13 +54,12 @@ Since the accuracry was only 72.62%, it still didn't reach the 75% target perfor
 
 ![optimization3score](https://user-images.githubusercontent.com/75760493/120915861-b414e280-c66b-11eb-8324-7c199aa055f0.PNG)
 
-Since the accuracry was only ..... it still didn't reach the 75% target performance,  I tried again but this time I reran the model with the tanh activation function for the output layer. 
+Since the accuracry was only 72.84%, it still didn't reach the 75% target performance,  I tried again but this time I reran the model with the tanh activation function for the output layer. 
 
 ![optimization4](https://user-images.githubusercontent.com/75760493/120915581-06550400-c66a-11eb-82e5-b5ed77895479.PNG)
 
 ![optimization4score](https://user-images.githubusercontent.com/75760493/120915597-1e2c8800-c66a-11eb-9c0c-8e26896acc8b.PNG)
 
-
-
+This accuracry was only 72.84%, so it failed to reach the 75% target performance yet again.  
 
 ## Summary
