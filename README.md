@@ -34,21 +34,21 @@ The purpose of this analysis is to use our knowledge of Tensorflow to design a n
   
   The first step I did to try to increase the model's performance was that I eliminated more columns that I felt were unncessary, such as the "STATUS" and                         "SPECIAL_CONSIDERATIONS" columns and then reran the model.
 
-![optimization1](https://user-images.githubusercontent.com/75760493/120914955-c17b9e00-c666-11eb-8479-d5230c6ee0b9.PNG)
+![optimization1](https://user-images.githubusercontent.com/75760493/120915817-7f089000-c66b-11eb-8857-566a9c318401.PNG)
 
-![optimization1score](https://user-images.githubusercontent.com/75760493/120914968-d5270480-c666-11eb-9632-2c1a769f9ff9.PNG)
+![optimization1score](https://user-images.githubusercontent.com/75760493/120915820-86c83480-c66b-11eb-9390-b1e434b7b899.PNG)
 
 Since the accuracry was only ..... it still didn't reach the 75% target performance, I tried again but this time I increased the neurons for each hidden layer. I increased the neurons in first hidden layer from 80 to 100 neurons and the second hidden layer from 30 to 50 layers.
 
-![optimization2](https://user-images.githubusercontent.com/75760493/120915124-99d90580-c667-11eb-86df-0af4b31a7c41.PNG)
+![optimization2](https://user-images.githubusercontent.com/75760493/120915824-8f206f80-c66b-11eb-856f-ba799f292daa.PNG)
 
-![optimization2score](https://user-images.githubusercontent.com/75760493/120915129-a65d5e00-c667-11eb-9681-8347601c3a70.PNG)
+![optimization2score](https://user-images.githubusercontent.com/75760493/120915846-a2333f80-c66b-11eb-860d-8635091e186a.PNG)
 
 Since the accuracry was only ..... it still didn't reach the 75% target performance,  I tried again but this time I increased the neurons for each hidden layer, along with adding two additional hidden layers. The first hidden layer had 100 neurons, the second hidden layer had 80 neurons, the third hidden layer had 50 neurons, and the fourth hidden layer had 30 neurons.
 
-![optimization3](https://user-images.githubusercontent.com/75760493/120915206-271c5a00-c668-11eb-9bd3-f1f543e84bb6.PNG)
+![optimization3](https://user-images.githubusercontent.com/75760493/120915855-a8c1b700-c66b-11eb-8834-1e3c3e0b65f4.PNG)
 
-![optimization3score](https://user-images.githubusercontent.com/75760493/120915219-3c918400-c668-11eb-9da8-6d69af06e7c1.PNG)
+![optimization3score](https://user-images.githubusercontent.com/75760493/120915861-b414e280-c66b-11eb-8324-7c199aa055f0.PNG)
 
 Since the accuracry was only ..... it still didn't reach the 75% target performance,  I tried again but this time I reran the model with the tanh activation function for the output layer. 
 
