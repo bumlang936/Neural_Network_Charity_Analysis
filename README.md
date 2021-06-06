@@ -42,13 +42,13 @@ The purpose of this analysis is to use our knowledge of Tensorflow to design a n
 
 ![optimization1score](https://user-images.githubusercontent.com/75760493/120915820-86c83480-c66b-11eb-9390-b1e434b7b899.PNG)
 
-Since the accuracry was only 72.74% it still didn't reach the 75% target performance, I tried again but this time I increased the neurons for each hidden layer. I increased the neurons in first hidden layer from 80 to 100 neurons and the second hidden layer from 30 to 50 layers.
+Since the accuracry was only 72.74%, it still didn't reach the 75% target performance, I tried again but this time I increased the neurons for each hidden layer. I increased the neurons in first hidden layer from 80 to 100 neurons and the second hidden layer from 30 to 50 layers.
 
 ![optimization2](https://user-images.githubusercontent.com/75760493/120915824-8f206f80-c66b-11eb-856f-ba799f292daa.PNG)
 
 ![optimization2score](https://user-images.githubusercontent.com/75760493/120915846-a2333f80-c66b-11eb-860d-8635091e186a.PNG)
 
-Since the accuracry was only ..... it still didn't reach the 75% target performance,  I tried again but this time I increased the neurons for each hidden layer, along with adding two additional hidden layers. The first hidden layer had 100 neurons, the second hidden layer had 80 neurons, the third hidden layer had 50 neurons, and the fourth hidden layer had 30 neurons.
+Since the accuracry was only 72.62%, it still didn't reach the 75% target performance,  I tried again but this time I increased the neurons for each hidden layer, along with adding two additional hidden layers. The first hidden layer had 100 neurons, the second hidden layer had 80 neurons, the third hidden layer had 50 neurons, and the fourth hidden layer had 30 neurons.
 
 ![optimization3](https://user-images.githubusercontent.com/75760493/120915855-a8c1b700-c66b-11eb-8834-1e3c3e0b65f4.PNG)
 
