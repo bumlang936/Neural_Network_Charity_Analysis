@@ -32,7 +32,7 @@ The purpose of this analysis is to use our knowledge of Tensorflow to design a n
   
   ![first test score](https://user-images.githubusercontent.com/75760493/120915902-0d7d1180-c66c-11eb-8492-54d62926f1ad.PNG)
   
-  Unfortunately, the model was unable to achieve its target performance of 75% and fell just short at around 73%.
+  Unfortunately, the model was unable to achieve its target performance of 75% and fell just short at around 72.74%.
 
 - What steps did you take to try and increase your model performance?
   
@@ -42,7 +42,7 @@ The purpose of this analysis is to use our knowledge of Tensorflow to design a n
 
 ![optimization1score](https://user-images.githubusercontent.com/75760493/120915820-86c83480-c66b-11eb-9390-b1e434b7b899.PNG)
 
-Since the accuracry was only ..... it still didn't reach the 75% target performance, I tried again but this time I increased the neurons for each hidden layer. I increased the neurons in first hidden layer from 80 to 100 neurons and the second hidden layer from 30 to 50 layers.
+Since the accuracry was only 72.74% it still didn't reach the 75% target performance, I tried again but this time I increased the neurons for each hidden layer. I increased the neurons in first hidden layer from 80 to 100 neurons and the second hidden layer from 30 to 50 layers.
 
 ![optimization2](https://user-images.githubusercontent.com/75760493/120915824-8f206f80-c66b-11eb-856f-ba799f292daa.PNG)
 
