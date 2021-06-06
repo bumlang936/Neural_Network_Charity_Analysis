@@ -9,6 +9,7 @@ The purpose of this analysis is to use our knowledge of Tensorflow to design a n
 ### Data Preprocessing
 
 - What variables are considered the targets for your model? 
+  
   The column, "IS_SUCCESSFUL" was considered to be the target variable for our neural network model because this column states wheteher or not the charity donation was           effective or not.
 
 - What variables are considered to be the features for your model?
