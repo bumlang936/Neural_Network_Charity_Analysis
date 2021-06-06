@@ -60,6 +60,6 @@ Since the accuracry was only 72.84%, it still didn't reach the 75% target perfor
 
 ![optimization4score](https://user-images.githubusercontent.com/75760493/120915597-1e2c8800-c66a-11eb-9c0c-8e26896acc8b.PNG)
 
-This accuracry was only 72.84%, so it failed to reach the 75% target performance yet again.  
+This accuracry was only 72.48%, so it failed to reach the 75% target performance yet again.  
 
 ## Summary
